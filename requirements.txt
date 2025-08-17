@@ -1,0 +1,6 @@
+openpyxl
+Pillow
+python-barcode
+reportlab
+arabic-reshaper
+python-bidi
