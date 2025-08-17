@@ -1,0 +1,1 @@
+# UI package for the POS application
